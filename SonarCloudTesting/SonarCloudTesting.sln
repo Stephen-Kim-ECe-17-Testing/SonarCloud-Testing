@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SonarCloudTesting", "SonarCloudTesting.vcxproj", "{D33EBA47-C343-4DA5-8E3F-05727B474099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D33EBA47-C343-4DA5-8E3F-05727B474099}.Debug|x64.ActiveCfg = Debug|x64
+		{D33EBA47-C343-4DA5-8E3F-05727B474099}.Debug|x64.Build.0 = Debug|x64
+		{D33EBA47-C343-4DA5-8E3F-05727B474099}.Debug|x86.ActiveCfg = Debug|Win32
+		{D33EBA47-C343-4DA5-8E3F-05727B474099}.Debug|x86.Build.0 = Debug|Win32
+		{D33EBA47-C343-4DA5-8E3F-05727B474099}.Release|x64.ActiveCfg = Release|x64
+		{D33EBA47-C343-4DA5-8E3F-05727B474099}.Release|x64.Build.0 = Release|x64
+		{D33EBA47-C343-4DA5-8E3F-05727B474099}.Release|x86.ActiveCfg = Release|Win32
+		{D33EBA47-C343-4DA5-8E3F-05727B474099}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A50B618-3E7C-4054-8E33-18B245238CD4}
+	EndGlobalSection
+EndGlobal
